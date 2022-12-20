@@ -1,0 +1,2 @@
+Prefix plugins/PhylogeneticTree/example/
+Plugin PhylogeneticTree inputfile parameters.txt outputfile newtree.tre

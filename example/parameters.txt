@@ -1,0 +1,4 @@
+OTU	otu_table.final.csv
+TAX	tax_table.final.csv
+META	sample_data.csv
+PHYLIP	phylip.tre
